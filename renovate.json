@@ -1,7 +1,8 @@
 {
   "pinDigests": true,
-  "container_pull": {
+  "docker": {
     "major": { "enabled": false},
-    "minor": { "enabled": false}
+    "minor": { "enabled": false},
+    "patch": { "enabled": true}
   }
 }
