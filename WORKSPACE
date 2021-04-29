@@ -30,9 +30,9 @@ load(
 
 container_pull(
     name = "nginx",
-    digest = "sha256:480395b7be07df06368c93469df41343c1e6285f5b37d387b5a17f2e8708a2a3",
+    digest = "sha256:e015192ec74937149dce3aa1feb8af016b7cce3a2896246b623cfd55c14939a6",
     registry = "docker.io",
     repository = "nginx",
     architecture = "amd64",
-    tag = "1.19.10-alpine",
+    tag = "1.20.0-alpine",
 )
