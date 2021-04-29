@@ -1,4 +1,5 @@
 {
+  "extends": ["config:base", ":semanticCommitsDisabled"],
   "pinDigests": true,
   "docker": {
     "major": { "enabled": false},
