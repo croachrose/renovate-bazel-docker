@@ -32,7 +32,6 @@ container_pull(
     name = "nginx",
     digest = "sha256:480395b7be07df06368c93469df41343c1e6285f5b37d387b5a17f2e8708a2a3",
     registry = "docker.io",
-    architecture = "amd64",
-    repository = "library/nginx",
+    repository = "amd64/nginx",
     tag = "1.19.10-alpine",
 )
