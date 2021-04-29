@@ -1,0 +1,7 @@
+{
+  "pinDigests": true,
+  "docker": {
+    "major": { "enabled": false},
+    "minor": { "enabled": false}
+  }
+}
