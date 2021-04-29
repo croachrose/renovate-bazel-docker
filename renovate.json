@@ -1,5 +1,5 @@
 {
-  "separateMinorPatch": true,
+  "extends": ["config:base"],
   "pinDigests": true,
   "docker": {
     "major": { "enabled": false},
