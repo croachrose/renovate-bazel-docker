@@ -1,7 +1,6 @@
 {
-  "extends": ["config:base"],
   "pinDigests": true,
-  "docker": {
+  "container_pull": {
     "major": { "enabled": false},
     "minor": { "enabled": false}
   }
